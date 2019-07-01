@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_food">Add Food</string>
+    <string name="food">Food</string>
+    <string name="done">Done</string>
+    <string name="enter_food">Enter Food</string>
+    <string name="name">Name</string>
+    <string name="calories">Calories</string>
+    <string name="enter_calorie_goal">Enter Calorie Goal</string>
+    <string name="submit">Submit</string>
+    <string name="calories_remaining">Calories Remaining</string>
+    <string name="time_spent_exercising">Time Spent Exercising:</string>
+    <string name="exercise">Exercise</string>
+    <string name="time">Time (minutes)</string>
+    <string name="exercise_time_minutes">Exercise Time (minutes)</string>
+    <string name="calorie_tracker">Calorie Tracker</string>
+    <string name="exercise_tracker">Exercise Tracker</string>
+
+
+    <string-array name="foods_array">
+        <item>Chicken</item>
+        <item>Broccoli</item>
+        <item>Rice</item>
+        <item>Carrots</item>
+        <item>Milk</item>
+        <item>Eggs</item>
+        <item>Macaroni and Cheese</item>
+        <item>Chocolate</item>
+    </string-array>
+
+    <string-array name="exercises_array">
+        <item>Running</item>
+        <item>Jogging</item>
+        <item>Yoga</item>
+        <item>Weight Lifting</item>
+        <item>Stretching</item>
+        <item>Cardio</item>
+        <item>Cycling</item>
+        <item>Dancing</item>
+    </string-array>
+
+
+</resources>
